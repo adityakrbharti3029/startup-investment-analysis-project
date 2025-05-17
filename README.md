@@ -74,6 +74,4 @@ streamlit run app.py
 
 
 👉 App will open in your browser at http://localhost:8501
-🖼️ Dashboard Preview
-(Add a clean screenshot of your dashboard here)
 
