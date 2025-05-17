@@ -2,7 +2,7 @@
 
 > 📊 *"Invest smart, analyze smarter!"*  
 > 👨‍💻 Built by: Aditya Kumar Bharti  
-> 🏫 IIT Ropar | 2025 | Crafted with ❤️
+> 🏫 IIT Ropar | 2025 | ❤️
 
 ---
 
