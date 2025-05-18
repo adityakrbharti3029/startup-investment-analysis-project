@@ -5,6 +5,10 @@
 > 🏫 IIT Ropar | 2025 | ❤️
 
 ---
+Problem statement 📌
+“Startups get a lot of investment, but it's tough to know which industry or country is getting the most. My goal was to make a dashboard that helps users explore trends, top sectors, and investor behavior with ease.”
+
+
 
 ## 🔍 About the Project
 
