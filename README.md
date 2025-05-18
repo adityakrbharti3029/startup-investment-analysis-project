@@ -53,29 +53,5 @@ It contains startup details like name, market, funding amount, region, country, 
 ![Screenshot 2025-05-18 021823](https://github.com/user-attachments/assets/b6916db7-44ad-4bf9-a31e-f0656f6259d8)
 
 
-
-
-
-
-
-
-## 🚀 Run the App Locally
-
-```bash
-
-# 1. Clone the repository
-git clone https://github.com/your-username/startup-investment-dashboard.git
-
-# 2. Navigate into the folder
-cd startup-investment-dashboard
-
-# 3. Install required packages
-pip install -r requirements.txt
-
-# 4. Launch the app
-streamlit run app.py
-
-
-
 👉 App will open in your browser at http://localhost:8501
 
